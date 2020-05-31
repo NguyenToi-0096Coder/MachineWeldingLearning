@@ -1,6 +1,7 @@
 #include "MKL46Z4.h"
 #include <stdbool.h>
 
+#define sasddasdasd             1000
 #define RED_LED_PIN            (1<<29)
 #define GREEN_LED_PIN          (1<<5)
 #define CORECLOCK8MHZ          (7995392)        
