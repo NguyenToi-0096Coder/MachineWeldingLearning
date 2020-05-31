@@ -1,25 +1,25 @@
-"F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\source\main.c"
+"C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\source\main.c"
 -std=c11
 -ferror-limit=0
 -fbracket-depth=512
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\source
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\source
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\source
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\source
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\MKL46Z
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\MKL46Z
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\CMSIS\Include
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\CMSIS\Include
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\inc
 -I
 C:\Program Files (x86)\IAR Systems\Embedded Workbench 8.1\arm\inc\c
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\source
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\source
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\MKL46Z
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\MKL46Z
 -I
-F:\LearningProject\ProjectMachineWeldingLearning\MachineWeldingLearning\CMSIS\Include
+C:\Users\KENSHIN\Desktop\branch1\MachineWeldingLearning\CMSIS\Include
 -D__CHAR_BITS__=8
 -D__CHAR_MAX__=0xff
 -D__CHAR_MIN__=0
